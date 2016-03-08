@@ -1,0 +1,764 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+  <Document id="Document_1">
+    <name/>
+    <visibility>1</visibility>
+    <open>0</open>
+    <Style id="Style_5">
+      <IconStyle id="IconStyle_3">
+        <color/>
+        <scale>3.5</scale>
+        <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+        <Icon id="Icon_140">
+          <href>images/icon_mod.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle id="LabelStyle_4">
+        <color>ff5e9cbc</color>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Folder id="Folder_2">
+      <name>Locations</name>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Placemark id="Placemark_7">
+        <name>Tower Place</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_5</styleUrl>
+        <Point id="Point_6">
+          <coordinates>-84.3717496, 33.8474295, 0</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark id="Placemark_9">
+        <name>Congress</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_5</styleUrl>
+        <Point id="Point_8">
+          <coordinates>-97.7432016, 30.2686031, 0</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark id="Placemark_11">
+        <name>University Park</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_5</styleUrl>
+        <Point id="Point_10">
+          <coordinates>-97.7228682, 30.2913276, 0</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark id="Placemark_13">
+        <name>Berkeley</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_5</styleUrl>
+        <Point id="Point_12">
+          <coordinates>-122.2675052, 37.8719845, 0</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark id="Placemark_15">
+        <name>Fort Point</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_5</styleUrl>
+        <Point id="Point_14">
+          <coordinates>-71.0500459, 42.3492404, 0</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark id="Placemark_17">
+        <name>South Station</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_5</styleUrl>
+        <Point id="Point_16">
+          <coordinates>-71.057101, 42.350304, 0</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark id="Placemark_19">
+        <name>Fulton Market</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_5</styleUrl>
+        <Point id="Point_18">
+          <coordinates>-87.6489958, 41.8862639, 0</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark id="Placemark_21">
+        <name>Grant Park</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_5</styleUrl>
+        <Point id="Point_20">
+          <coordinates>-87.6248258, 41.8773145, 0</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark id="Placemark_23">
+        <name>River North</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_5</styleUrl>
+        <Point id="Point_22">
+          <coordinates>-87.63167179999999, 41.8905963, 0</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark id="Placemark_25">
+        <name>Lohi</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_5</styleUrl>
+        <Point id="Point_24">
+          <coordinates>-105.0076246, 39.7584509, 0</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark id="Placemark_27">
+        <name>Union Station</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_5</styleUrl>
+        <Point id="Point_26">
+          <coordinates>-105.0018837, 39.7537806, 0</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark id="Placemark_29">
+        <name>Fine Arts Building</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_5</styleUrl>
+        <Point id="Point_28">
+          <coordinates>-118.2589725, 34.0491816, 0</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark id="Placemark_31">
+        <name>Gas Tower</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_5</styleUrl>
+        <Point id="Point_30">
+          <coordinates>-118.2531767, 34.050075, 0</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark id="Placemark_33">
+        <name>Hollywood</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_5</styleUrl>
+        <Point id="Point_32">
+          <coordinates>-118.3444009, 34.1018384, 0</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark id="Placemark_35">
+        <name>Promenade</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_5</styleUrl>
+        <Point id="Point_34">
+          <coordinates>-118.4972486, 34.0171162, 0</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark id="Placemark_37">
+        <name>Santa Monica</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_5</styleUrl>
+        <Point id="Point_36">
+          <coordinates>-118.491807, 34.0160442, 0</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark id="Placemark_39">
+        <name>Lincoln Railroad</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_5</styleUrl>
+        <Point id="Point_38">
+          <coordinates>-80.13166489999999, 25.7903554, 0</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark id="Placemark_41">
+        <name>42nd Street</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_5</styleUrl>
+        <Point id="Point_40">
+          <coordinates>-73.9736995, 40.7507837, 0</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark id="Placemark_43">
+        <name>5th Ave</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_5</styleUrl>
+        <Point id="Point_42">
+          <coordinates>-73.98364939999999, 40.7503577, 0</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark id="Placemark_45">
+        <name>Bryant Park</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_5</styleUrl>
+        <Point id="Point_44">
+          <coordinates>-73.9842168, 40.7529715, 0</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark id="Placemark_47">
+        <name>Charging Bull</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_5</styleUrl>
+        <Point id="Point_46">
+          <coordinates>-74.0139724, 40.7057809, 0</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark id="Placemark_49">
+        <name>Chelsea</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_5</styleUrl>
+        <Point id="Point_48">
+          <coordinates>-73.99564699999999, 40.7403679, 0</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark id="Placemark_51">
+        <name>Dumbo Heights</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_5</styleUrl>
+        <Point id="Point_50">
+          <coordinates>-73.974648, 40.679221, 0</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark id="Placemark_53">
+        <name>Empire State</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_5</styleUrl>
+        <Point id="Point_52">
+          <coordinates>-73.9843984, 40.74811390000001, 0</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark id="Placemark_55">
+        <name>Fidi</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_5</styleUrl>
+        <Point id="Point_54">
+          <coordinates>-74.0110917, 40.7039915, 0</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark id="Placemark_57">
+        <name>Fulton Center</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_5</styleUrl>
+        <Point id="Point_56">
+          <coordinates>-74.0084713, 40.710968, 0</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark id="Placemark_59">
+        <name>Gramercy</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_5</styleUrl>
+        <Point id="Point_58">
+          <coordinates>-73.98572, 40.739496, 0</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark id="Placemark_61">
+        <name>John St.</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_5</styleUrl>
+        <Point id="Point_60">
+          <coordinates>-74.00913059999999, 40.7101996, 0</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark id="Placemark_63">
+        <name>Madison</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_5</styleUrl>
+        <Point id="Point_62">
+          <coordinates>-73.9806266, 40.75048719999999, 0</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark id="Placemark_65">
+        <name>Meatpacking</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_5</styleUrl>
+        <Point id="Point_64">
+          <coordinates>-74.0059282, 40.7396608, 0</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark id="Placemark_67">
+        <name>Nomad</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_5</styleUrl>
+        <Point id="Point_66">
+          <coordinates>-73.9852222, 40.7440668, 0</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark id="Placemark_69">
+        <name>Park South</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_5</styleUrl>
+        <Point id="Point_68">
+          <coordinates>-73.983881, 40.7429491, 0</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark id="Placemark_71">
+        <name>Penn Station</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_5</styleUrl>
+        <Point id="Point_70">
+          <coordinates>-73.9933502, 40.75405749999999, 0</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark id="Placemark_73">
+        <name>Soho</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_5</styleUrl>
+        <Point id="Point_72">
+          <coordinates>-73.9986758, 40.7202027, 0</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark id="Placemark_75">
+        <name>Soho West</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_5</styleUrl>
+        <Point id="Point_74">
+          <coordinates>-74.0059792, 40.72741449999999, 0</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark id="Placemark_77">
+        <name>Studio Square</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_5</styleUrl>
+        <Point id="Point_76">
+          <coordinates>-73.92513319999999, 40.7549673, 0</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark id="Placemark_79">
+        <name>Times Square</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_5</styleUrl>
+        <Point id="Point_78">
+          <coordinates>-73.9862093, 40.7551055, 0</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark id="Placemark_81">
+        <name>Wall Street</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_5</styleUrl>
+        <Point id="Point_80">
+          <coordinates>-74.0064032, 40.7049123, 0</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark id="Placemark_83">
+        <name>West Broadway</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_5</styleUrl>
+        <Point id="Point_82">
+          <coordinates>-74.0021781, 40.7235671, 0</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark id="Placemark_85">
+        <name>Williamsburg</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_5</styleUrl>
+        <Point id="Point_84">
+          <coordinates>-73.9598489, 40.7161789, 0</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark id="Placemark_87">
+        <name>Northern Liberties</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_5</styleUrl>
+        <Point id="Point_86">
+          <coordinates>-75.13973960000001, 39.9657327, 0</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark id="Placemark_89">
+        <name>Custom House</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_5</styleUrl>
+        <Point id="Point_88">
+          <coordinates>-122.6780309, 45.5248202, 0</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark id="Placemark_91">
+        <name>Civic Center</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_5</styleUrl>
+        <Point id="Point_90">
+          <coordinates>-122.4120423, 37.7779056, 0</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark id="Placemark_93">
+        <name>Golden Gate</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_5</styleUrl>
+        <Point id="Point_92">
+          <coordinates>-122.4111482, 37.7825688, 0</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark id="Placemark_95">
+        <name>Mid-Market</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_5</styleUrl>
+        <Point id="Point_94">
+          <coordinates>-122.4097495, 37.7820848, 0</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark id="Placemark_97">
+        <name>Soma</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_5</styleUrl>
+        <Point id="Point_96">
+          <coordinates>-122.3991049, 37.7871083, 0</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark id="Placemark_99">
+        <name>Transbay</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_5</styleUrl>
+        <Point id="Point_98">
+          <coordinates>-122.3981036, 37.7888898, 0</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark id="Placemark_101">
+        <name>Holyoke Building</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_5</styleUrl>
+        <Point id="Point_100">
+          <coordinates>-122.3363375, 47.6055072, 0</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark id="Placemark_103">
+        <name>South Lake Union</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_5</styleUrl>
+        <Point id="Point_102">
+          <coordinates>-122.3301121, 47.6233544, 0</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark id="Placemark_105">
+        <name>Westlake Tower</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_5</styleUrl>
+        <Point id="Point_104">
+          <coordinates>-122.337463, 47.612441, 0</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark id="Placemark_107">
+        <name>Chinatown</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_5</styleUrl>
+        <Point id="Point_106">
+          <coordinates>-77.0222695, 38.8991129, 0</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark id="Placemark_109">
+        <name>Crystal City</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_5</styleUrl>
+        <Point id="Point_108">
+          <coordinates>-77.0516336, 38.8539538, 0</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark id="Placemark_111">
+        <name>Dupont Circle</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_5</styleUrl>
+        <Point id="Point_110">
+          <coordinates>-77.04605529999999, 38.9157683, 0</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark id="Placemark_113">
+        <name>Wonder Bread Factory</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_5</styleUrl>
+        <Point id="Point_112">
+          <coordinates>-77.0211258, 38.91453, 0</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark id="Placemark_115">
+        <name>Be'er Sheva</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_5</styleUrl>
+        <Point id="Point_114">
+          <coordinates>34.791462, 31.252973, 0</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark id="Placemark_117">
+        <name>Herzliya</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_5</styleUrl>
+        <Point id="Point_116">
+          <coordinates>34.8097452, 32.1606302, 0</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark id="Placemark_119">
+        <name>Dubnov</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_5</styleUrl>
+        <Point id="Point_118">
+          <coordinates>34.78345270000001, 32.0750007, 0</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark id="Placemark_121">
+        <name>Sarona</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_5</styleUrl>
+        <Point id="Point_120">
+          <coordinates>34.7865759, 32.0713993, 0</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark id="Placemark_123">
+        <name>Metropool</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_5</styleUrl>
+        <Point id="Point_122">
+          <coordinates>4.9060397, 52.3650027, 0</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark id="Placemark_125">
+        <name>Weteringschans</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_5</styleUrl>
+        <Point id="Point_124">
+          <coordinates>4.891745999999999, 52.3597684, 0</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark id="Placemark_127">
+        <name>Aldgate Tower</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_5</styleUrl>
+        <Point id="Point_126">
+          <coordinates>-0.0719582, 51.51474289999999, 0</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark id="Placemark_129">
+        <name>Chancery Lane</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_5</styleUrl>
+        <Point id="Point_128">
+          <coordinates>-0.1114537, 51.5189356, 0</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark id="Placemark_131">
+        <name>Devonshire Square</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_5</styleUrl>
+        <Point id="Point_130">
+          <coordinates>-0.0785229, 51.5169345, 0</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark id="Placemark_133">
+        <name>Moorgate</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_5</styleUrl>
+        <Point id="Point_132">
+          <coordinates>-0.090487, 51.5181045, 0</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark id="Placemark_135">
+        <name>Soho London</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_5</styleUrl>
+        <Point id="Point_134">
+          <coordinates>-0.1344786, 51.5149572, 0</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark id="Placemark_137">
+        <name>South Bank</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_5</styleUrl>
+        <Point id="Point_136">
+          <coordinates>-0.1067903, 51.508215, 0</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark id="Placemark_139">
+        <name>Spitalfields</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_5</styleUrl>
+        <Point id="Point_138">
+          <coordinates>-0.07977469999999999, 51.520278, 0</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
